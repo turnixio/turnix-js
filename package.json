@@ -1,0 +1,21 @@
+{
+  "name": "turnix-js",
+  "version": "0.1.2",
+  "description": "Lightweight JS SDK for requesting ICE credentials from the Turnix API",
+  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    }
+  },
+  "keywords": ["turnix", "webrtc", "ice", "turn", "stun", "sdk", "javascript"],
+  "author": "Turnix",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turnixio/turnix-js.git"
+  },
+  "bugs":   { "url": "https://github.comgithub.com/turnixio/turnix-js/issues" },
+  "homepage": "https://turnix.io"
+}
